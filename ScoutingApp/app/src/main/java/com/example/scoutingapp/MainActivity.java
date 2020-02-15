@@ -8,8 +8,8 @@ import android.view.View;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-    public final String EXTRA_TEAM = "com.example.scoutingapp.TEAM";
-    public final String EXTRA_MATCH = "com.example.scoutingapp.MATCH";
+    public static final String EXTRA_TEAM = "com.example.scoutingapp.TEAM";
+    public static final String EXTRA_MATCH = "com.example.scoutingapp.MATCH";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
