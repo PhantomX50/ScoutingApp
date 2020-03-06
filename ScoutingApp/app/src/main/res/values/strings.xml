@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scouting App</string>
+    <string name="welcome_message">Lemon Scouting App</string>
+    <string name="enter_team">Enter the team number</string>
+    <string name="enter_match">Enter the match number</string>
+    <string name="next_button">Next</string>
+    <string name="pit_enable">Pit Scouting</string>
+    <string name="teamText">Team:</string>
+    <string name="matchText">Match:</string>
+    <string name="section_auton">Autonomous</string>
+    <string name="generate">Generate</string>
+</resources>
